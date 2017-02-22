@@ -1,4 +1,4 @@
-The Submission of Int. Journal on Artificial Intelligence Tools
+# The Submission of Int. Journal on Artificial Intelligence Tools
 
 Documents for submitting to Int. Journal on Artificial Intelligence Tools. This includes:
 
