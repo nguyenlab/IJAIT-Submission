@@ -1,6 +1,6 @@
 The Submission of Int. Journal on Artificial Intelligence Tools
 
-Documents for submitting to Expert Systems with Applications. This includes:
+Documents for submitting to Int. Journal on Artificial Intelligence Tools. This includes:
 
 1. The ogirinal paper submitted at ICTAI 2016.
 
